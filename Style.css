@@ -1,0 +1,70 @@
+
+            body {                                                            
+                background-color: rgb(19, 19, 19);
+            }
+
+            hr {
+                background-color:rgb(105, 167, 105);
+            }
+
+            .verde {
+                color: rgb(105, 167, 105);
+            }
+
+            .cinza {
+                color: rgb(122, 122, 122);
+            }
+
+            .ciano {
+                color: rgb(122, 222, 240);
+            }
+
+            .azul {
+                color: rgb(56, 101, 184);
+            }
+
+            .amarelo {
+                color: rgb(224, 187, 86);
+            }
+
+            .laranja {
+                color: rgb(209, 132, 81);
+            }
+
+            .vermelho {
+                color: rgb(190, 22, 22);
+            }
+            
+            h1 {   
+                color: rgb(255, 255, 255);
+                font-size: 350%;
+            }
+
+            h2 {
+                font-size: 100%;
+                color: rgb(105, 167, 105);
+            }
+
+            p {
+                color: white;
+                font-family: Consolas, monaco, monospaceas;
+                line-height: 1.8;
+            }
+
+            a:link,
+            a:visited {
+                color: rgb(209, 132, 81);
+                background-color: rgb(51, 51, 51);
+                padding: 12px;
+            }
+            a:hover {
+                color: rgb(56, 101, 184);
+                background-color: rgb(32, 32, 32);
+                padding: 12px;
+            }
+            a:active {
+                color: rgb(122, 222, 240);
+                background-color: rgb(46, 46, 46);
+                padding: 12px;
+            }
+            
